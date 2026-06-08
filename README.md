@@ -12,7 +12,7 @@ R-KDIVO is a new framework that fuses camera, IMU, encoder, and foot-force estim
 ## Framework
 
 <p align="center">
-  <img src="figures/observer_eskf.jpg" width="80%">
+  <img src="figures/observer_eskf.jpg" width="60%">
   <br>
   <b>Fig. 1.</b> The proposed R-KDIV framework.
 </p>
@@ -22,7 +22,7 @@ R-KDIVO is a new framework that fuses camera, IMU, encoder, and foot-force estim
 ### Indoor sequence
 
 <p align="center">
-  <img src="figures/indoor_traj_2.jpg" width="80%">
+  <img src="figures/indoor_traj_2.jpg" width="60%">
   <br>
   <b>Fig. 2.</b> Indoor trajectory comparison.
 </p>
@@ -30,8 +30,15 @@ R-KDIVO is a new framework that fuses camera, IMU, encoder, and foot-force estim
 ### Outdoor sequence
 
 <p align="center">
-  <img src="figures/campus_trajectory_plot.jpg" width="80%">
+  <img src="figures/campus_trajectory_plot.jpg" width="60%">
   <br>
   <b>Fig. 3.</b> Outdoor Campus trajectory comparison.
 </p>
 
+### Challenge scene
+
+<p align="center">
+  <img src="figures/robust.png" width="80%">
+  <br>
+  <b>Fig. 3.</b> Challenge scenes trajectory comparison, including foot slippage and camera occlusion.
+</p>
