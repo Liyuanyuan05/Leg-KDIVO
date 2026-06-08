@@ -21,7 +21,7 @@ R-KDIVO is a robust kinematic-dynamic-inertial-visual odometry framework for leg
 ### Indoor sequence
 
 <p align="center">
-  <img src="figures/indoor_traj_2.jpg" width="60%">
+  <img src="figures/indoor_traj_2.jpg" width="40%">
   <br>
   <b>Fig. 2.</b> Indoor trajectory comparison.
 </p>
