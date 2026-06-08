@@ -1,22 +1,37 @@
+
 # R-KDIV
-R-KDIVO: The new framework that fuses camera, IMU, Encoder and foot force estimation for legged robots pose estimation. The datatsets and code will open in the future.
-## Platform Aliengo 
+
+R-KDIVO is a new framework that fuses camera, IMU, encoder, and foot-force estimation for legged robot pose estimation. The datasets and code will be released in the future.
+
+## Platform: AlienGo
+
 <p align="center">
-  <img src="/figures/dog.jpg" width="50%">
+  <img src="figures/dog.jpg" width="50%">
 </p>
 
-## Framework 
+## Framework
+
 <p align="center">
-  <img src="/figures/observer_eskf.pdf" width="80%">
-  <b>Fig. 1.</b>  The proposed R-KDIV framework.
+  <img src="figures/observer_eskf.png" width="80%">
+  <br>
+  <b>Fig. 1.</b> The proposed R-KDIV framework.
 </p>
 
 ## Experimental Results
-#Indoor sequence
+
+### Indoor sequence
+
 <p align="center">
-  <img src="/figures/indoor_traj_2.pdf" width="80%">
+  <img src="figures/indoor_traj_2.png" width="80%">
+  <br>
+  <b>Fig. 2.</b> Indoor trajectory comparison of the proposed R-KDIVO framework.
 </p>
-#Outdoor sequence
+
+### Outdoor sequence
+
 <p align="center">
-  <b>Fig. 1.</b> Trajectory comparison of the proposed R-KDIVO framework.
+  <img src="figures/outdoor_traj.png" width="80%">
+  <br>
+  <b>Fig. 3.</b> Outdoor trajectory comparison of the proposed R-KDIVO framework.
 </p>
+```
