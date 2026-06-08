@@ -4,6 +4,11 @@ R-KDIVO: The new framework that fuses camera, IMU, Encoder and foot force estima
 <p align="center">
   <img src="/figures/dog.jpg" width="80%">
 </p>
+## Platform Aliengo 
+<p align="center">
+  <img src="/figures/observer_eskf.pdf" width="80%">
+  <b>Fig. 1.</b> Trajectory comparison of the proposed R-KDIVO framework.
+</p>
 ## Experimental Results
 
 <p align="center">
