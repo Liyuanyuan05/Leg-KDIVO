@@ -24,7 +24,7 @@ R-KDIVO is a new framework that fuses camera, IMU, encoder, and foot-force estim
 <p align="center">
   <img src="figures/indoor_traj_2.jpg" width="80%">
   <br>
-  <b>Fig. 2.</b> Indoor trajectory comparison of the proposed R-KDIVO framework.
+  <b>Fig. 2.</b> Indoor trajectory comparison.
 </p>
 
 ### Outdoor sequence
@@ -32,6 +32,6 @@ R-KDIVO is a new framework that fuses camera, IMU, encoder, and foot-force estim
 <p align="center">
   <img src="figures/campus_trajectory_plot.jpg" width="80%">
   <br>
-  <b>Fig. 3.</b> Outdoor Campus trajectory comparison of the proposed R-KDIVO framework.
+  <b>Fig. 3.</b> Outdoor Campus trajectory comparison.
 </p>
 
