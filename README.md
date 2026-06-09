@@ -32,7 +32,7 @@ Sensor msg
 
 ### Indoor sequence
 
-<p align="center">
+<p align="left">
   <img src="figures/indoor_traj_2.jpg" width="40%">
   <br>
   <b>Fig. 2.</b> Indoor trajectory comparison.
@@ -40,7 +40,7 @@ Sensor msg
 
 ### Outdoor sequence
 
-<p align="center">
+<p align="left">
   <img src="figures/campus_trajectory_plot.jpg" width="60%">
   <br>
   <b>Fig. 3.</b> Outdoor Campus trajectory comparison.
