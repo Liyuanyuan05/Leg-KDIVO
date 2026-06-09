@@ -32,7 +32,6 @@ R-KDIVO is a robust kinematic-dynamic-inertial-visual odometry framework for leg
 
 #### Foot Force (Legged Controller)
 - `/legged_robot_mpc_prediction`
-```
 
 
 ## Experimental Results
