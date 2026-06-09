@@ -16,9 +16,7 @@ R-KDIVO is a robust kinematic-dynamic-inertial-visual odometry framework for leg
   <b>Fig. 1.</b> The proposed R-KDIV framework.
 </p>
 
-## Data
-
-### Sensor Messages
+## Data Sensor Messages
 
 #### IMU (Built-in legged robot)
 - `/dog/imu_data`
