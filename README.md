@@ -5,13 +5,13 @@ R-KDIVO is a robust kinematic-dynamic-inertial-visual odometry framework for leg
 ## Platform: AlienGo
 
 <p align="center">
-  <img src="figures/dog.jpg" width="50%">
+  <img src="figures/dog.jpg" width="30%">
 </p>
 
 ## Framework
 
 <p align="center">
-  <img src="figures/observer_eskf.jpg" width="60%">
+  <img src="figures/observer_eskf.jpg" width="70%">
   <br>
   <b>Fig. 1.</b> The proposed R-KDIV framework.
 </p>
