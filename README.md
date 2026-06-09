@@ -19,10 +19,14 @@ R-KDIVO is a robust kinematic-dynamic-inertial-visual odometry framework for leg
 ## Date
 Sensor msg
 #### IMU(Build in legged robot)
+-/dog/imu_data
 
 #### Encoder(Utilize the Pinocchio library)
+-/dog/imu_data
 
 #### Camera(RealSense D435i)
+
+#### Foot force(Legged Controller)
 
 ## Experimental Results
 
