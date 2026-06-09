@@ -17,6 +17,12 @@ R-KDIVO is a robust kinematic-dynamic-inertial-visual odometry framework for leg
 </p>
 
 ## Date
+Sensor msg
+### IMU
+
+### Kinematic
+
+### Camera
 
 ## Experimental Results
 
