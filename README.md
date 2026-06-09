@@ -54,7 +54,7 @@ R-KDIVO is a robust kinematic-dynamic-inertial-visual odometry framework for leg
 
 ### Challenge scene
 
-<p align="center">
+<p align="left">
   <img src="figures/robust.png" width="80%">
   <br>
   <b>Fig. 4.</b> Challenge scenes trajectory comparison, including foot slippage and camera occlusion.
