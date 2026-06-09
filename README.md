@@ -22,11 +22,14 @@ Sensor msg
 -/dog/imu_data
 
 #### Encoder(Utilize the Pinocchio library)
--/dog/imu_data
+-/dog/leg_state
 
 #### Camera(RealSense D435i)
+-/camera/infra1/image_rect_raw
+-/camera/infra2/image_rect_raw
 
 #### Foot force(Legged Controller)
+-/legged_robot_mpc_prediction
 
 ## Experimental Results
 
